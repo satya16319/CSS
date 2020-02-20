@@ -1,0 +1,90 @@
+
+ *
+ {
+     margin: 0px;
+     padding: 0px;
+ }
+    body {
+        background-color:#D8DA3D;
+    }
+    ul{
+        float: left;
+        list-style: none;
+        background-color: #D8DA3D;
+         padding: 15px 5px 20px 2px;
+    }
+    li
+    {
+        margin: 10px 0 0 20px;
+        padding: 5px 4px 5px 3px;
+       background-color: white;
+       width: 110%;
+       border-right: 20px solid  orange;
+       color: #80007E;
+       font-size: 20px;
+       
+    }
+    div
+    {
+        color: #80007E;
+        font-size:25px;
+        margin: 10px 100px 10px 300px;
+        padding: 2px;
+    }
+    hr.rt
+    {
+        border: 1px dotted #ff0000;
+        border-style: none none dotted; 
+   
+      margin: 10px 10px 10px 300px;
+      padding: 2px;
+   }
+   p.tyu
+   {
+       border: 1px dashed black;
+       margin: 25px 400px 10px 300px;
+      text-align: left;
+      padding: 10px;
+      font-size:25px;
+   }
+   p.tyu1
+   {
+       border: 1px dashed red;
+       margin: 20px 400px 10px 300px;
+      padding: 10px;
+      text-align: right;
+      font-size:25px;
+   }
+   p.tyu2
+   {
+       border: 1px dotted grey;
+       margin: 20px 400px 10px 300px;
+      padding: 10px;
+      text-align: center;
+      font-size:25px;
+
+   }
+     
+   p.tyu3
+   {
+
+    color: #80007E;
+    margin: 10px 10px 10px 300px;
+    padding: 2px;
+    font-size:20px;
+   }
+    h3
+    {
+       
+        font-size:50px;
+       color: #80007E;
+       margin: 10px 0 0 300px;
+    }
+    ul li:nth-child(2)
+    {
+        border-right: 20px solid #0000FF;
+    }
+    ul li:nth-child(4)
+    {
+        border-right: 20px solid #0000FF;
+    }
