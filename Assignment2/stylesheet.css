@@ -1,0 +1,71 @@
+
+ *
+ {
+     margin: 0px;
+     padding: 0px;
+ }
+   
+    table.r1
+    {
+       
+       margin: 70px 250px 100px 250px;
+        width: 800px;
+        padding: 15px;
+        height: 500px;
+    }
+    td.r2
+    {
+        background-color: #FF9999;
+        height: 100px;
+    }
+    p.r3
+    {
+        font-size: 30px;
+       margin: 20px 1px 1px 100px;
+        padding: 1px;
+    }
+    p.r4
+    {
+        font-size: 20px;
+        padding: 10px;
+       margin: 20px 0 50px 50px;
+        padding: 1px;
+    }
+    td.r5
+    {
+        
+        
+        color: white;
+        font-size: 30px;
+        border-color:rgb(0, 0, 0);
+        background-color: rgb(243, 243, 93);
+                width: 570px;
+        background-image: url("Assignment-2-img-1.jpg");
+        background-repeat: no-repeat;
+        background-size: 540px 285px;
+        background-position: center;
+         
+    }
+    td.r6
+    {
+        text-align: center;
+        color:#696969;
+        font-size: 14px;
+         background-image: url("Assignment-2-img-2.jpg");
+         background-repeat: no-repeat;
+         background-size: 120px 120px;
+         background-position: 40px 30px;
+         background-color:  #ECECFB;
+         padding: 135px 0 0 2px;
+         margin: 200px 100px 10px 0;
+    }
+   p.r7
+   {
+        margin-left: 40px;
+        margin-right: 20px;
+   }
+   h2.y
+   {
+       color: #696969;
+      text-align:400px 30px ;   
+   }
